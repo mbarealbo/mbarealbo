@@ -1,6 +1,6 @@
 # 👨‍💻  Ahoy There, sono Albo
 Possiedo competenze IT e una visione strategica per raggiungere obiettivi aziendali e digitali complessi. 
-Il mio approccio è **data-driven e tecnico**, spaziando dalla progettazione di strategie allo sviluppo web.
+Il mio approccio spazia dalla progettazione di strategie allo sviluppo web.
 
 ![Ghostship](https://media.giphy.com/media/DshCX0b1mBobu/giphy.gif)
 
@@ -13,7 +13,7 @@ Il mio approccio è **data-driven e tecnico**, spaziando dalla progettazione di 
 ## 🧪 Il Mio Approccio
 - Integro abilità tecnologiche con strategie di marketing mirate.
 - Non mi considero solo un consulente di Marketing o uno specialista IT, ma piuttosto una fusione di entrambi.
-- Prendo decisioni basate su analisi approfondite e dati concreti, per guidare la creazione e l'attuazione di campagne efficaci.
+- Prendo decisioni basate su analisi approfondite, per guidare la creazione e l'attuazione di campagne efficaci.
 - Collaboro sia con team IT che con team creativi per assicurare che le soluzioni siano praticabili, in linea con gli obiettivi aziendali e le esigenze del cliente.
 
 ## 📝 Percorso
