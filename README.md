@@ -19,8 +19,6 @@ Il mio approccio spazia dalla progettazione di strategie allo sviluppo web.
 ## 📝 Percorso
 Ho iniziato come **SEO** nel 2011. Ho proseguito poi specializzandomi in competenze di **strategia e perfomance**, preferendo l'ambito IT a quello meramente creativo. 
 
-![Path](img/cv-path.png)
-
   
 
 
